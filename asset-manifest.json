@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Meetup-app/static/css/main.04d75c64.chunk.css",
+    "main.js": "/Meetup-app/static/js/main.5c49bc7b.chunk.js",
+    "main.js.map": "/Meetup-app/static/js/main.5c49bc7b.chunk.js.map",
+    "runtime-main.js": "/Meetup-app/static/js/runtime-main.d37bda09.js",
+    "runtime-main.js.map": "/Meetup-app/static/js/runtime-main.d37bda09.js.map",
+    "static/js/2.636d2c0c.chunk.js": "/Meetup-app/static/js/2.636d2c0c.chunk.js",
+    "static/js/2.636d2c0c.chunk.js.map": "/Meetup-app/static/js/2.636d2c0c.chunk.js.map",
+    "index.html": "/Meetup-app/index.html",
+    "static/css/main.04d75c64.chunk.css.map": "/Meetup-app/static/css/main.04d75c64.chunk.css.map",
+    "static/js/2.636d2c0c.chunk.js.LICENSE.txt": "/Meetup-app/static/js/2.636d2c0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d37bda09.js",
+    "static/js/2.636d2c0c.chunk.js",
+    "static/css/main.04d75c64.chunk.css",
+    "static/js/main.5c49bc7b.chunk.js"
+  ]
+}
