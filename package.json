@@ -2,7 +2,7 @@
   "name": "cresh-2021",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://HaiderRizvi993.github.io/Meetup-app",
+  "homepage": "https://HaiderRizvi993.github.io/Meetups-app",
   "dependencies": {
     "@agney/react-loading": "^0.1.2",
     "@testing-library/jest-dom": "^5.11.4",
